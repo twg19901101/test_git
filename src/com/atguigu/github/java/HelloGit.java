@@ -11,6 +11,7 @@ public class HelloGit {
 		System.out.println("hello git4!");
 		System.out.println("hello git5!");
 		System.out.println("hello eclipse from github2!");
+		System.out.println("hello git6!");
 		
 	}
 
